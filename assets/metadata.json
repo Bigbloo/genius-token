@@ -3,6 +3,14 @@
     "symbol": "GENIUS",
     "description": "GENIUS Token - A magical genie token on Solana blockchain",
     "image": "https://raw.githubusercontent.com/Bigbloo/genius-token/main/assets/genius.png",
+    "logoURI": "https://raw.githubusercontent.com/Bigbloo/genius-token/main/assets/genius.png",
+    "extensions": {
+        "website": "https://github.com/Bigbloo/genius-token",
+        "imageType": "image/png",
+        "serumV3Usdt": "",
+        "coingeckoId": "",
+        "waterfallbot": ""
+    },
     "attributes": [
         {
             "trait_type": "Type",
@@ -13,8 +21,11 @@
         "files": [
             {
                 "uri": "https://raw.githubusercontent.com/Bigbloo/genius-token/main/assets/genius.png",
-                "type": "image/png"
+                "type": "image/png",
+                "cdn": false
             }
-        ]
+        ],
+        "category": "image",
+        "creators": []
     }
 }
